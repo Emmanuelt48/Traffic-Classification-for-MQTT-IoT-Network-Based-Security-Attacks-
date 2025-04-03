@@ -1,4 +1,4 @@
-# Feature Selection for Malicious Traffic Classification in MQTT-IoT Networks
+# Malicious Traffic Classification in MQTT-IoT Networks
 
 ## Overview  
 With the rapid growth of IoT devices, ensuring robust security measures is essential to defend against malicious network traffic. 
@@ -11,7 +11,8 @@ The goal is to **reduce feature dimensionality** while maintaining **high detect
 
 ## Contents  
 - `Binary_case.ipynb` – Notebook for classifying traffic as **legitimate (0) vs. malicious (1)**.  
-- `Multiclass_cASE.ipynb` – Notebook for categorizing traffic into multiple attack types.  
+- `Multiclass_case.ipynb` – Notebook for categorizing traffic into multiple attack types (classes).
+-  `README.md` – This file.  
 
 ## Key Features  
 - **Feature selection using statistical moments difference thresholding**  
