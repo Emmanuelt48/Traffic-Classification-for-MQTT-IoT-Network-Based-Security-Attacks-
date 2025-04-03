@@ -20,8 +20,12 @@ The goal is to **reduce feature dimensionality** while maintaining **high detect
 - **Optimized for computational efficiency in IoT security applications**  
 
 ## Dataset  
-The dataset used in this study is **MQTTset**, which can be accessed here:  
-[MQTTset on Kaggle](https://www.kaggle.com/datasets/cnrieiit/mqttset)  
+The dataset used in this study is **MQTTset**, created and discussed in the following research paper:  
 
+📄 **Vaccari, I.; Chiola, G.; Aiello, M.; Mongelli, M.; Cambiaso, E.**  
+*"MQTTset, a New Dataset for Machine Learning Techniques on MQTT."*  
+**Sensors 2020, 20, 6578** ([DOI: 10.3390/s20226578](https://doi.org/10.3390/s20226578))  
+
+🔗 **Access the dataset on Kaggle:** [MQTTset Dataset](https://www.kaggle.com/datasets/cnrieiit/mqttset)  
 ## Keywords  
 Anomaly detection • Feature selection • Intrusion detection system • Machine learning • MQTT • Traffic classification  
