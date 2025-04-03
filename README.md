@@ -20,7 +20,7 @@ The goal is to **reduce feature dimensionality** while maintaining **high detect
 - **Optimized for computational efficiency in IoT security applications**  
 
 ## Dataset  
-The dataset used in this study is **MQTTset**, created and discussed in the following research paper:  
+The dataset used in this study is **MQTTset**, created by **Vaccari et al.** and discussed in the following research paper:  
 
 📄 **Vaccari, I.; Chiola, G.; Aiello, M.; Mongelli, M.; Cambiaso, E.**  
 *"MQTTset, a New Dataset for Machine Learning Techniques on MQTT."*  
